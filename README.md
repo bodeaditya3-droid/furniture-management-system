@@ -15,3 +15,12 @@ A simple furniture management system designed to manage furniture inventory, pro
 Frontend: Java swing
 Backend: java
 Database: MySql
+
+# Database Setup [ Importent ]
+
+1. Install MySQL.
+2. Create the database `furniture_rental`.
+3. Import the SQL file from the `database` folder.
+4. Open `src/project/DBConnection.java`.
+5. Change the MySQL username and password according to your MySQL setup.
+6. Run the application.
