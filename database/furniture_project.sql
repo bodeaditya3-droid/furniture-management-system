@@ -1,0 +1,2 @@
+use furniture_rental;
+
